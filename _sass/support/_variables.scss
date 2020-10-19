@@ -46,7 +46,9 @@ $grey-lt-200: #ecebed !default;
 $grey-lt-300: #e6e1e8 !default;
 
 $purple-000: #7253ed !default;
+//$purple-000: #000000 !default;
 $purple-100: #5e41d0 !default;
+//$purple-100: #000000 !default;
 $purple-200: #4e26af !default;
 $purple-300: #381885 !default;
 
@@ -77,11 +79,11 @@ $table-background-color: $white !default;
 $code-background-color: $grey-lt-000 !default;
 $feedback-color: darken($sidebar-color, 3%) !default;
 
-$body-text-color: $grey-dk-100 !default;
+$body-text-color: $grey-dk-200 !default;
 $body-heading-color: $grey-dk-300 !default;
 $search-result-preview-color: $grey-dk-000 !default;
 $nav-child-link-color: $grey-dk-100 !default;
-$link-color: $purple-000 !default;
+$link-color: $blue-200 !default;
 $btn-primary-color: $purple-100 !default;
 $base-button-color: #f7f7f7 !default;
 
