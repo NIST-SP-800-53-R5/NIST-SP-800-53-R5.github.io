@@ -50,73 +50,17 @@ Security and privacy controls described in this publication have a well-defined 
     </td>
   </tr>
   <tr>
-    <td style="background-color:#6790ab">
+    <td style="background-color:#879ec9">
 <span style="color:#000000">ID</span>
     </td>
-    <td colspan="2" style="background-color:#6790ab">
+    <td colspan="2" style="background-color:#879ec9">
 <span style="color:#000000">FAMILY</span>
     </td>
-    <td style="background-color:#6790ab">
+    <td style="background-color:#879ec9">
 <span style="color:#000000">ID</span>
     </td>
-    <td colspan="2" style="background-color:#6790ab">
+    <td colspan="2" style="background-color:#879ec9">
 <span style="color:#000000">FAMILY</span>
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color:#bad1e0">
-<span style="color:#000000">AC</span>
-    </td>
-    <td colspan="2" style="background-color:#bad1e0">
-<span style="color:#000000">Access Control</span>
-    </td>
-    <td style="background-color:#bad1e0">
-<span style="color:#000000">PE</span>
-    </td>
-    <td colspan="2" style="background-color:#bad1e0">
-<span style="color:#000000">Physical and Environmental Protection</span>
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color:#bad1e0">
-<span style="color:#000000">AC</span>
-    </td>
-    <td colspan="2" style="background-color:#bad1e0">
-<span style="color:#000000">Access Control</span>
-    </td>
-    <td style="background-color:#bad1e0">
-<span style="color:#000000">PE</span>
-    </td>
-    <td colspan="2" style="background-color:#bad1e0">
-<span style="color:#000000">Physical and Environmental Protection</span>
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color:#bad1e0">
-<span style="color:#000000">AC</span>
-    </td>
-    <td colspan="2" style="background-color:#bad1e0">
-<span style="color:#000000">Access Control</span>
-    </td>
-    <td style="background-color:#bad1e0">
-<span style="color:#000000">PE</span>
-    </td>
-    <td colspan="2" style="background-color:#bad1e0">
-<span style="color:#000000">Physical and Environmental Protection</span>
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color:#bad1e0">
-<span style="color:#000000">AC</span>
-    </td>
-    <td colspan="2" style="background-color:#bad1e0">
-<span style="color:#000000">Access Control</span>
-    </td>
-    <td style="background-color:#bad1e0">
-<span style="color:#000000">PE</span>
-    </td>
-    <td colspan="2" style="background-color:#bad1e0">
-<span style="color:#000000">Physical and Environmental Protection</span>
     </td>
   </tr>
   <tr>
@@ -353,4 +297,3 @@ Organizations can select assurance-related controls to define system development
 
 **`EVIDENCE OF CONTROL IMPLEMENTATION`**<br>
 `During control selection and implementation, it is important for organizations to consider the evidence (e.g., artifacts, documentation) that will be needed to support current and future control assessments. Such assessments help determine whether the controls are implemented correctly, operating as intended, and satisfying security and privacy policies—thus, providing essential information for senior leaders to make informed risk-based decisions.`
-

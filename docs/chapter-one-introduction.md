@@ -8,11 +8,10 @@ nav_order: 100
 
 # INTRODUCTION
 {: .no_toc }
+THE NEED TO PROTECT INFORMATION, SYSTEMS, ORGANIZATIONS, AND INDIVIDUALS
 
 1. TOC
 {:toc}
-
-THE NEED TO PROTECT INFORMATION, SYSTEMS, ORGANIZATIONS, AND INDIVIDUALS
 
 Modern information systems<sup>(1)</sup> can include a variety of computing platforms (e.g., industrial control systems, general purpose computing systems, cyber-physical systems, super computers, weapons systems, communications systems, environmental control systems, medical devices, embedded devices, sensors, and mobile devices such as smart phones and tablets). These platforms all share a common foundation—computers with complex hardware, software and firmware providing a capability that supports the essential mission and business functions of organizations. <sup>(2)</sup>
 
