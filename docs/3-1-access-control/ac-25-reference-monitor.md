@@ -1,0 +1,18 @@
+---
+layout: default
+title:  -- AC-25 REFERENCE MONITOR 
+parent: . 3.1 ACCESS CONTROL 
+nav_order: 15250
+---
+
+## AC-25 REFERENCE MONITOR
+
+<ins>Control</ins>: Implement a reference monitor for [ _Assignment: organization-defined access control policies_ ] that is tamperproof, always invoked, and small enough to be subject to analysis and testing, the completeness of which can be assured.
+
+<ins>Discussion</ins>: A reference monitor is a set of design requirements on a reference validation mechanism that, as a key component of an operating system, enforces an access control policy over all subjects and objects. A reference validation mechanism is always invoked, tamper-proof, and small enough to be subject to analysis and tests, the completeness of which can be assured (i.e., verifiable). Information is represented internally within systems using abstractions known as data structures. Internal data structures can represent different types of entities, both active and passive. Active entities, also known as subjects, are associated with individuals, devices, or processes acting on behalf of individuals. Passive entities, also known as objects, are associated with data structures, such as records, buffers, communications ports, tables, files, and inter- process pipes. Reference monitors enforce access control policies that restrict access to objects based on the identity of subjects or groups to which the subjects belong. The system enforces the access control policy based on the rule set established by the policy. The tamper-proof property of the reference monitor prevents determined adversaries from compromising the functioning of the reference validation mechanism. The always invoked property prevents adversaries from bypassing the mechanism and violating the security policy. The smallness property helps to ensure completeness in the analysis and testing of the mechanism to detect any weaknesses or deficiencies (i.e., latent flaws) that would prevent the enforcement of the security policy.
+
+<ins>Related Controls</ins>: AC-3, AC-16, SA-8, SA-17, SC-3, SC-11, SC-39, SI-13.
+
+<ins>Control Enhancements</ins>: None.
+
+<ins>References</ins>: None.
