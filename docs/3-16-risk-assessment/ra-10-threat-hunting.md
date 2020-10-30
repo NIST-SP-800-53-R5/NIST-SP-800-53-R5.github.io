@@ -1,0 +1,24 @@
+---
+layout: page
+title: -- RA-10 THREAT HUNTING 
+parent: . 3.16 RISK ASSESSMENT
+nav_order: 316100
+---
+
+## RA-10 THREAT HUNTING
+
+<ins>Control</ins>:
+
+* a. Establish and maintain a cyber threat hunting capability to:
+    * 1 . Search for indicators of compromise in organizational systems; and
+    * 2 . Detect, track, and disrupt threats that evade existing controls; and
+* b. Employ the threat hunting capability [ _Assignment: organization-defined frequency_ ].
+
+<ins>Discussion</ins>: Threat hunting is an active means of cyber defense in contrast to traditional protection measures, such as firewalls, intrusion detection and prevention systems, quarantining malicious code in sandboxes, and Security Information and Event Management technologies and systems. Cyber threat hunting involves proactively searching organizational systems, networks, and infrastructure for advanced threats. The objective is to track and disrupt cyber adversaries as early as possible in the attack sequence and to measurably improve the speed and accuracy of organizational responses. Indications of compromise include unusual network traffic, unusual file changes, and the presence of malicious code. Threat hunting teams leverage existing threat intelligence and may create new threat intelligence, which is shared with peer organizations, Information Sharing and Analysis Organizations (ISAO), Information Sharing and Analysis Centers (ISAC), and relevant government departments and agencies.
+
+<ins>Related Controls</ins>: CA-2, CA-7, CA-8, RA-3, RA-5, RA-6, SI-4.
+
+<ins>Control Enhancements</ins>: None.
+
+<ins>References</ins>: [SP 800-30].
+ 
