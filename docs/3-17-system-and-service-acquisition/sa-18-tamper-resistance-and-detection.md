@@ -1,0 +1,18 @@
+---
+layout: page
+title: -- SA-18 TAMPER RESISTANCE AND DETECTION 
+parent: . 3.17 SYSTEM AND SERVICES ACQUISITION 
+nav_order: 317180 
+---
+
+## SA-18 TAMPER RESISTANCE AND DETECTION
+   
+[Withdrawn: Moved to SR-9 .]
+
+<ins>Control Enhancements</ins>:
+   
+* (1) TAMPER RESISTANCE AND DETECTION / MULTIPLE PHASES OF SYSTEM DEVELOPMENT LIFE CYCLE<br>
+[Withdrawn: Moved to SR-9(1).]
+   
+* (2) TAMPER RESISTANCE AND DETECTION / INSPECTION OF SYSTEMS OR COMPONENTS<br>
+[Withdrawn: Moved to SR-10 .]
