@@ -50,9 +50,9 @@ This publication is available free of charge from:
 `Organizations are encouraged to review draft publications during the designated public comment periods and provide feedback to NIST. Many NIST publications, other than the ones noted above, are available at https://csrc.nist.gov/publications.`
 
 
-National Institute of Standards and Technology
-Attn: Computer Security Division, Information Technology Laboratory
-100 Bureau Drive (Mail Stop 8930) Gaithersburg, MD 20899-
+National Institute of Standards and Technology<br>
+Attn: Computer Security Division, Information Technology Laboratory<br>
+100 Bureau Drive (Mail Stop 8930) Gaithersburg, MD 20899-8930<br>
 Email: sec-cert@nist.gov
 
 All comments are subject to release under the Freedom of Information Act (FOIA) [FOIA96].

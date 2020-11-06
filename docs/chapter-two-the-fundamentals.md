@@ -23,7 +23,7 @@ Organizations may divide security and privacy requirements into more granular ca
 
 ***
 
-<sup>(25)</sup> The system characteristics that impact security and privacy vary and include the system type and function in terms of its primary purpose; the system make-up in terms of its technology, mechanical, physical, and human elements; the modes and states within which the system delivers its functions and services; the criticality or importance of the system and its constituent functions and services; the sensitivity of the data or information processed, stored, or transmitted; the consequence of loss, failure, or degradation relative to the ability of the system to execute correctly and to provide for its own protection (i.e., self-protection); and monetary or other value [SP 800-160-1].
+<sup>25</sup> The system characteristics that impact security and privacy vary and include the system type and function in terms of its primary purpose; the system make-up in terms of its technology, mechanical, physical, and human elements; the modes and states within which the system delivers its functions and services; the criticality or importance of the system and its constituent functions and services; the sensitivity of the data or information processed, stored, or transmitted; the consequence of loss, failure, or degradation relative to the ability of the system to execute correctly and to provide for its own protection (i.e., self-protection); and monetary or other value [SP 800-160-1].
 
 ***
 
@@ -189,6 +189,7 @@ Security and privacy controls described in this publication have a well-defined 
 <span style="color:#000000">System and Information Integrity</span>
     </td>
   </tr>
+	<tr>
     <td style="background-color:#bad1e0">
 <span style="color:#000000">MP</span>
     </td>
@@ -206,7 +207,7 @@ Security and privacy controls described in this publication have a well-defined 
 
 ***
 
-<sup>(26)</sup> Of the 20 control families in NIST SP 800-53, 17 are aligned with the minimum security requirements in [FIPS 200]. The Program Management (PM), PII Processing and Transparency (PT), and Supply Chain Risk Management (SR) families address enterprise-level program management, privacy, and supply chain risk considerations pertaining to federal mandates emergent since [FIPS 200].
+<sup>26</sup> Of the 20 control families in NIST SP 800-53, 17 are aligned with the minimum security requirements in [FIPS 200]. The Program Management (PM), PII Processing and Transparency (PT), and Supply Chain Risk Management (SR) families address enterprise-level program management, privacy, and supply chain risk considerations pertaining to federal mandates emergent since [FIPS 200].
 
 ***
 
@@ -227,11 +228,11 @@ The _related controls_ section provides a list of controls from the control cata
 
 The _control enhancements_ section provides statements of security and privacy capability that augment a base control. The control enhancements are numbered sequentially within each control so that the enhancements can be easily identified when selected to supplement the base control. Each control enhancement has a short subtitle to indicate the intended function or capability provided by the enhancement. In the AU-4 example, if the control enhancement is selected, the control designation becomes AU-4(1). The numerical designation of a control enhancement is used only to identify that enhancement within the control. The designation is not indicative of the strength of the control enhancement, level of protection, priority, degree of importance, or any hierarchical relationship among the enhancements. Control enhancements are not intended to be selected independently. That is, if a control enhancement is selected, then the corresponding base control is also selected and implemented.
 
-The _references _section includes a list of applicable laws, policies, standards, guidelines, websites, and other useful references that are relevant to a specific control or control enhancement.<sup>(27)</sup> The references section also includes hyperlinks to publications for obtaining additional information for control development, implementation, assessment, and monitoring.
+The _references _section includes a list of applicable laws, policies, standards, guidelines, websites, and other useful references that are relevant to a specific control or control enhancement.<sup>27</sup> The references section also includes hyperlinks to publications for obtaining additional information for control development, implementation, assessment, and monitoring.
 
 ***
 
-<sup>(27)</sup> References are provided to assist organizations in understanding and implementing the security and privacy controls and are not intended to be inclusive or complete.
+<sup>27</sup> References are provided to assist organizations in understanding and implementing the security and privacy controls and are not intended to be inclusive or complete.
 
 ***
 
@@ -249,7 +250,7 @@ In addition to assignment and selection operations embedded in a control, additi
 
 ## 2. 3 CONTROL IMPLEMENTATION APPROACHES
 
-There are three approaches to implementing the controls in Chapter Three: (1) a common (inheritable) control implementation approach, (2) a system-specific control implementation approach, and (3) a hybrid control implementation approach. The control implementation approaches define the scope of applicability for the control, the shared nature or inheritability of the control, and the responsibility for control development, implementation, assessment, and authorization. Each control implementation approach has a specific objective and focus that helps organizations select the appropriate controls, implement the controls in an effective manner, and satisfy security and privacy requirements. A specific control implementation approach may achieve cost benefits by leveraging security and privacy capabilities across multiple systems and environments of operation.<sup>(28)</sup>
+There are three approaches to implementing the controls in Chapter Three: (1) a common (inheritable) control implementation approach, (2) a system-specific control implementation approach, and (3) a hybrid control implementation approach. The control implementation approaches define the scope of applicability for the control, the shared nature or inheritability of the control, and the responsibility for control development, implementation, assessment, and authorization. Each control implementation approach has a specific objective and focus that helps organizations select the appropriate controls, implement the controls in an effective manner, and satisfy security and privacy requirements. A specific control implementation approach may achieve cost benefits by leveraging security and privacy capabilities across multiple systems and environments of operation.<sup>28</sup>
 
 Common controls are controls whose implementation results in a capability that is inheritable by multiple systems or programs. A control is deemed inheritable when the system or program receives protection from the implemented control, but the control is developed, implemented, assessed, authorized, and monitored by an internal or external entity other than the entity responsible for the system or program. The security and privacy capabilities provided by common controls can be inherited from many sources, including mission or business lines, organizations, enclaves, environments of operation, sites, or other systems or programs. Implementing controls as common controls can introduce the risk of a single point of failure.
 
@@ -259,7 +260,7 @@ Controls not implemented as common controls are implemented as system-specific o
 
 ***
 
-<sup>(28)</sup> [SP 800-37 ] provides additional guidance on control implementation approaches (formerly referred to as control designations) and how the different approaches are used in the _Risk Management Framework_.
+<sup>28</sup> [SP 800-37 ] provides additional guidance on control implementation approaches (formerly referred to as control designations) and how the different approaches are used in the _Risk Management Framework_.
 
 The determination as to the appropriate control implementation approach (i.e., common, hybrid, or system-specific) is context-dependent. The control implementation approach cannot be determined to be common, hybrid, or system-specific simply based on the language of the control. Identifying the control implementation approach can result in significant savings to organizations in implementation and assessment costs and a more consistent application of the controls organization-wide. Typically, the identification of the control implementation approach is straightforward. However, the implementation takes significant planning and coordination.
 
@@ -267,21 +268,21 @@ Planning for the implementation approach of a control (i.e., common, hybrid, or 
 
 ## 2. 4 SECURITY AND PRIVACY CONTROLS
 
-The selection and implementation of security and privacy controls reflect the objectives of information security and privacy programs and how those programs manage their respective risks. Depending on the circumstances, these objectives and risks can be independent or overlapping. Federal information security programs are responsible for protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction (i.e., unauthorized activity or system behavior) to provide confidentiality, integrity, and availability. Those programs are also responsible for managing security risk and for ensuring compliance with applicable security requirements. Federal privacy programs are responsible for managing risks to individuals associated with the creation, collection, use, processing, storage, maintenance, dissemination, disclosure, or disposal (collectively referred to as “processing”) of personally identifiable information (PII) and for ensuring compliance with applicable privacy requirements.<sup>(29)</sup> When a system processes PII, the information security program and the privacy program have a shared responsibility for managing the security risks for the PII in the system. Due to this overlap in responsibilities, the controls that organizations select to manage these security risks will generally be the same regardless of their designation as security or privacy controls in control baselines or program or system plans.
+The selection and implementation of security and privacy controls reflect the objectives of information security and privacy programs and how those programs manage their respective risks. Depending on the circumstances, these objectives and risks can be independent or overlapping. Federal information security programs are responsible for protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction (i.e., unauthorized activity or system behavior) to provide confidentiality, integrity, and availability. Those programs are also responsible for managing security risk and for ensuring compliance with applicable security requirements. Federal privacy programs are responsible for managing risks to individuals associated with the creation, collection, use, processing, storage, maintenance, dissemination, disclosure, or disposal (collectively referred to as “processing”) of personally identifiable information (PII) and for ensuring compliance with applicable privacy requirements.<sup>29</sup> When a system processes PII, the information security program and the privacy program have a shared responsibility for managing the security risks for the PII in the system. Due to this overlap in responsibilities, the controls that organizations select to manage these security risks will generally be the same regardless of their designation as security or privacy controls in control baselines or program or system plans.
 
 There also may be circumstances in which the selection and/or implementation of the control or control enhancement affects the ability of a program to achieve its objectives and manage its respective risks. The control discussion section may highlight specific security and/or privacy considerations so that organizations can take these considerations into account as they determine the most effective method to implement the control. However, these considerations are not exhaustive.
 
 ***
 
-<sup>(29)</sup> Privacy programs may also choose to consider the risks to individuals that may arise from their interactions with information systems, where the processing of personally identifiable information may be less impactful than the effect that the system has on individuals’ behavior or activities. Such effects would constitute risks to individual autonomy, and organizations may need to take steps to manage those risks in addition to information security and privacy risks.
+<sup>29</sup> Privacy programs may also choose to consider the risks to individuals that may arise from their interactions with information systems, where the processing of personally identifiable information may be less impactful than the effect that the system has on individuals’ behavior or activities. Such effects would constitute risks to individual autonomy, and organizations may need to take steps to manage those risks in addition to information security and privacy risks.
 
 For example, an organization might select AU-3 (Content of Audit Records) to support monitoring for unauthorized access to an information asset that does not include PII. Since the potential loss of confidentiality of the information asset does not affect privacy, security objectives are the primary driver for the selection of the control. However, the implementation of the control with respect to monitoring for unauthorized access could involve the processing of PII which may result in privacy risks and affect privacy program objectives. The discussion section in AU-3 includes privacy risk considerations so that organizations can take those considerations into account as they determine the best way to implement the control. Additionally, the control enhancement AU-3(3) (Limit Personally Identifiable Information Elements) could be selected to support managing these privacy risks.
 
-Due to permutations in the relationship between information security and privacy program objectives and risk management, there is a need for close collaboration between programs to select and implement the appropriate controls for information systems processing PII. Organizations consider how to promote and institutionalize collaboration between the two programs to ensure that the objectives of both disciplines are met and risks are appropriately managed. <sup>(30)</sup>
+Due to permutations in the relationship between information security and privacy program objectives and risk management, there is a need for close collaboration between programs to select and implement the appropriate controls for information systems processing PII. Organizations consider how to promote and institutionalize collaboration between the two programs to ensure that the objectives of both disciplines are met and risks are appropriately managed. <sup>30</sup>
 
 ## 2. 5 TRUSTWORTHINESS AND ASSURANCE
 
-The trustworthiness of systems, system components, and system services is an important part of the risk management strategies developed by organizations.<sup>(31)</sup> Trustworthiness, in this context, means worthy of being trusted to fulfill whatever requirements may be needed for a component, subsystem, system, network, application, mission, business function, enterprise, or other entity.<sup>(32)</sup> Trustworthiness requirements can include attributes of reliability, dependability, performance, resilience, safety, security, privacy, and survivability under a range of potential adversity in the form of disruptions, hazards, threats, and privacy risks. Effective measures of trustworthiness are meaningful only to the extent that the requirements are complete, well- defined, and can be accurately assessed.
+The trustworthiness of systems, system components, and system services is an important part of the risk management strategies developed by organizations.<sup>31</sup> Trustworthiness, in this context, means worthy of being trusted to fulfill whatever requirements may be needed for a component, subsystem, system, network, application, mission, business function, enterprise, or other entity.<sup>32</sup> Trustworthiness requirements can include attributes of reliability, dependability, performance, resilience, safety, security, privacy, and survivability under a range of potential adversity in the form of disruptions, hazards, threats, and privacy risks. Effective measures of trustworthiness are meaningful only to the extent that the requirements are complete, well- defined, and can be accurately assessed.
 
 Two fundamental concepts that affect the trustworthiness of systems are functionality and assurance. Functionality is defined in terms of the security and privacy features, functions, mechanisms, services, procedures, and architectures implemented within organizational systems and programs and the environments in which those systems and programs operate. Assurance is the measure of confidence that the system functionality is implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security and privacy requirements for the system—thus possessing the capability to accurately mediate and enforce established security and privacy policies.
 
@@ -289,9 +290,9 @@ In general, the task of providing meaningful assurance that a system is likely t
 
 ***
 
-<sup>(30)</sup> Resources to support information security and privacy program collaboration are available at [SP 800-53 RES].
-<sup>(31)</sup> [SP 800-160-1] provides guidance on systems security engineering and the application of security design principles to achieve trustworthy systems.
-<sup>(32)</sup> See [NEUM04].
+<sup>30</sup> Resources to support information security and privacy program collaboration are available at [SP 800-53 RES].
+<sup>31</sup> [SP 800-160-1] provides guidance on systems security engineering and the application of security design principles to achieve trustworthy systems.
+<sup>32</sup> See [NEUM04].
 
 Organizations can select assurance-related controls to define system development activities, generate evidence about the functionality and behavior of the system, and trace the evidence to the system elements that provide such functionality or exhibit such behavior. The evidence is used to obtain a degree of confidence that the system satisfies the stated security and privacy requirements while supporting the organization’s mission and business functions. Assurance- related controls are identified in the control summary tables in Appendix C.
 
