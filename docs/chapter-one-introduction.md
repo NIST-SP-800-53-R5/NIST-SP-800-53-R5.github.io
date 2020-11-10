@@ -92,10 +92,10 @@ The catalog of security and privacy controls can be effectively used to protect 
 
 ***
 
-<sup>15</sup> [SP 800-30 ] provides guidance on the risk assessment process.<br>
+<sup>15</sup> [SP 800-30] provides guidance on the risk assessment process.<br>
 <sup>16</sup> [IR 8062] introduces privacy risk concepts.<br>
-<sup>17</sup> [SP 800-39 ] provides guidance on risk management processes and strategies.<br>
-<sup>18</sup> [SP 800-37 ] provides a comprehensive risk management process.<br>
+<sup>17</sup> [SP 800-39] provides guidance on risk management processes and strategies.<br>
+<sup>18</sup> [SP 800-37] provides a comprehensive risk management process.<br>
 <sup>19</sup> [SP 800-53A] provides guidance on assessing the effectiveness of controls.<br>
 <sup>20</sup> [SP 800-53B] provides guidance for tailoring security and privacy control baselines and for developing overlays to support the specific protection needs and requirements of stakeholders and their organizations.<br>
 
