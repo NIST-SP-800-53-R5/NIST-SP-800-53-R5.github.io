@@ -180,7 +180,7 @@ SA- 17 , SC-4, SC-7, SC-16, SC-31.
     <ins>Related Controls</ins>: None.
 
 * (25) INFORMATION FLOW ENFORCEMENT / DATA SANITIZATION<br>
-**When transferring information between different security domains, sanitize data to minimize [ _Selection (one or more: delivery of malicious content, command and control of malicious code, malicious code augmentation, and steganography encoded data; spillage of sensitive information_ ] in accordance with [ _Assignment: organization-defined policy_ ]].**
+**When transferring information between different security domains, sanitize data to minimize [ _Selection (one or more: delivery of malicious content, command and control of malicious code, malicious code augmentation, and steganography encoded data; spillage of sensitive information ] in accordance with [ Assignment: organization-defined policy ]_ ].**
 
     <ins>Discussion</ins>: Data sanitization is the process of irreversibly removing or destroying data stored on a memory device (e.g., hard drives, flash memory/solid state drives, mobile devices, CDs, and DVDs) or in hard copy form.
 
@@ -241,4 +241,4 @@ SA- 17 , SC-4, SC-7, SC-16, SC-31.
 
     <ins>Related Controls</ins>: None.
 
-<ins>References</ins>: [SP-800- 160 -1], [SP 800- 162 ], [SP 800-178], [ IR 8112].
+<ins>References</ins>: [SP-800-160-1], [SP 800-162 ], [SP 800-178], [IR 8112].
