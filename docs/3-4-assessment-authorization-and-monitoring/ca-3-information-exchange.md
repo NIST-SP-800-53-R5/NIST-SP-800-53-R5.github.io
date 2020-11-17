@@ -21,29 +21,29 @@ Authorizing officials determine the risk associated with system information exch
 
 <ins>Control Enhancements</ins>:
 
-* (1) SYSTEM CONNECTIONS | UNCLASSIFIED NATIONAL SECURITY SYSTEM CONNECTIONS<br>
+* (1) SYSTEM CONNECTIONS / UNCLASSIFIED NATIONAL SECURITY SYSTEM CONNECTIONS<br>
 [Withdrawn: Moved to SC-7(25).]
 
-* (2) SYSTEM CONNECTIONS | CLASSIFIED NATIONAL SECURITY SYSTEM CONNECTIONS<br>
+* (2) SYSTEM CONNECTIONS / CLASSIFIED NATIONAL SECURITY SYSTEM CONNECTIONS<br>
 [Withdrawn: Moved to SC-7(26).]
 
-* (3) SYSTEM CONNECTIONS | UNCLASSIFIED NON-NATIONAL SECURITY SYSTEM CONNECTIONS<br>
+* (3) SYSTEM CONNECTIONS / UNCLASSIFIED NON-NATIONAL SECURITY SYSTEM CONNECTIONS<br>
 [Withdrawn: Moved to SC-7(27).]
 
-* (4) SYSTEM CONNECTIONS | CONNECTIONS TO PUBLIC NETWORKS<br>
+* (4) SYSTEM CONNECTIONS / CONNECTIONS TO PUBLIC NETWORKS<br>
 [Withdrawn: Moved to SC-7(28).]
 
-* (5) SYSTEM CONNECTIONS | RESTRICTIONS ON EXTERNAL SYSTEM CONNECTIONS<br>
+* (5) SYSTEM CONNECTIONS / RESTRICTIONS ON EXTERNAL SYSTEM CONNECTIONS<br>
 [Withdrawn: Moved to SC-7(5).]
 
-* (6) INFORMATION EXCHANGE | TRANSFER AUTHORIZATIONS<br>
+* (6) INFORMATION EXCHANGE / TRANSFER AUTHORIZATIONS<br>
 **Verify that individuals or systems transferring data between interconnecting systems have the requisite authorizations (i.e., write permissions or privileges) prior to accepting such data.**
 
     <ins>Discussion</ins>: To prevent unauthorized individuals and systems from making information transfers to protected systems, the protected system verifies—via independent means— whether the individual or system attempting to transfer information is authorized to do so. Verification of the authorization to transfer information also applies to control plane traffic (e.g., routing and DNS) and services (e.g., authenticated SMTP relays).
 
     <ins>Related Controls</ins>: AC-2, AC-3, AC-4.
 
-* (7) INFORMATION EXCHANGE |TRANSITIVE INFORMATION EXCHANGES<ins>
+* (7) INFORMATION EXCHANGE /TRANSITIVE INFORMATION EXCHANGES<ins>
     * **(a) Identify transitive (downstream) information exchanges with other systems through the systems identified in CA-3a ; and**
     * **(b) Take measures to ensure that transitive (downstream) information exchanges cease when the controls on identified transitive (downstream) systems cannot be verified or validated.**
 

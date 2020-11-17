@@ -85,4 +85,4 @@ nav_order: 3530
 
     <ins>Related Controls</ins>: None.
 
-<ins>References</ins>: [SP 800-124], [SP 800-128], [IR 8062 ].
+<ins>References</ins>: [SP 800-124], [SP 800-128], [IR 8062].
