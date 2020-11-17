@@ -9,7 +9,7 @@ nav_order: 33160
 
 <ins>Control</ins>: Employ [ _Assignment: organization-defined methods_ ] for coordinating [ _Assignment: organization-defined audit information_ ] among external organizations when audit information is transmitted across organizational boundaries.
 
-<ins>Discussion<ins>: When organizations use systems or services of external organizations, the audit logging capability necessitates a coordinated, cross-organization approach. For example, maintaining the identity of individuals who request specific services across organizational boundaries may often be difficult, and doing so may prove to have significant performance and privacy ramifications. Therefore, it is often the case that cross-organizational audit logging simply captures the identity of individuals who issue requests at the initial system, and subsequent systems record that the requests originated from authorized individuals. Organizations consider including processes for coordinating audit information requirements and protection of audit information in information exchange agreements.
+<ins>Discussion</ins>: When organizations use systems or services of external organizations, the audit logging capability necessitates a coordinated, cross-organization approach. For example, maintaining the identity of individuals who request specific services across organizational boundaries may often be difficult, and doing so may prove to have significant performance and privacy ramifications. Therefore, it is often the case that cross-organizational audit logging simply captures the identity of individuals who issue requests at the initial system, and subsequent systems record that the requests originated from authorized individuals. Organizations consider including processes for coordinating audit information requirements and protection of audit information in information exchange agreements.
 
 <ins>Related Controls</ins>: AU-3, AU-6, AU-7, CA-3, PT-7.
 
@@ -32,9 +32,9 @@ nav_order: 33160
 * (3) CROSS-ORGANIZATIONAL AUDITING | DISASSOCIABILITY<br>
 **Implement [ _Assignment: organization-defined measures_ ] to disassociate individuals from audit information transmitted across organizational boundaries.**
 
-    <ins>Discussion<ins>: Preserving identities in audit trails could have privacy ramifications, such as enabling the tracking and profiling of individuals, but may not be operationally necessary. These risks could be further amplified when transmitting information across organizational boundaries. Implementing privacy-enhancing cryptographic techniques can disassociate individuals from audit information and reduce privacy risk while maintaining accountability.
+    <ins>Discussion</ins>: Preserving identities in audit trails could have privacy ramifications, such as enabling the tracking and profiling of individuals, but may not be operationally necessary. These risks could be further amplified when transmitting information across organizational boundaries. Implementing privacy-enhancing cryptographic techniques can disassociate individuals from audit information and reduce privacy risk while maintaining accountability.
 
-    <ins>Related Controls<ins>: None.
+    <ins>Related Controls</ins>: None.
 
 <ins>References<ins>: None.
 

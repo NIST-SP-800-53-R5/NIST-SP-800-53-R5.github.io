@@ -25,6 +25,6 @@ nav_order: 3310
 
 <ins>Control Enhancements</ins>: None.
 
-<ins>References</ins>: [SP 800-12], [SP 800-30 ], [SP 800-39], [SP 800-100 ].
+<ins>References</ins>: [SP 800-12], [SP 800-30], [SP 800-39], [SP 800-100].
 
 

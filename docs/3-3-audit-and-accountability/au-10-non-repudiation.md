@@ -40,7 +40,7 @@ nav_order: 33100
 
 * (4) NON-REPUDIATION / VALIDATE BINDING OF INFORMATION REVIEWER IDENTITY<br>
     * **(a) Validate the binding of the information reviewer identity to the information at the transfer or release points prior to release or transfer between [ _Assignment: organization-defined security domains_ ]; and**
-    * (b) **Perform [ _Assignment: organization-defined actions_ ] in the event of a validation error.**
+    * **(b) Perform [ _Assignment: organization-defined actions_ ] in the event of a validation error.**
 
     <ins>Discussion</ins>: Validating the binding of the information reviewer identity to the information at transfer or release points prevents the unauthorized modification of information between review and the transfer or release. The validation of bindings can be achieved by using cryptographic checksums. Organizations determine if validations are in response to user requests or generated automatically.
 

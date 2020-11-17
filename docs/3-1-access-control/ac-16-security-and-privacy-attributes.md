@@ -40,7 +40,7 @@ Organizations can define the types of attributes needed for systems to support m
     <ins>Related Controls</ins>: None.
 
 * (3) SECURITY AND PRIVACY ATTRIBUTES / MAINTENANCE OF ATTRIBUTE ASSOCIATIONS BY SYSTEM<br>
-Maintain the association and integrity of [ _Assignment: organization-defined security and privacy attributes_ ] to [ _Assignment: organization-defined subjects and objects_ ].
+**Maintain the association and integrity of [ _Assignment: organization-defined security and privacy attributes_ ] to [ _Assignment: organization-defined subjects and objects_ ].**
 
     <ins>Discussion</ins>: Maintaining the association and integrity of security and privacy attributes to subjects and objects with sufficient assurance helps to ensure that the attribute associations can be used as the basis of automated policy actions. The integrity of specific items, such as security configuration files, may be maintained through the use of an integrity monitoring mechanism that detects anomalies and changes that deviate from “known good” baselines. Automated policy actions include retention date expirations, access control decisions, information flow control decisions, and information disclosure decisions.
 
@@ -95,5 +95,5 @@ Maintain the association and integrity of [ _Assignment: organization-defined se
 
     <ins>Related Controls</ins>: None.
 
-<ins>References</ins>: [OMB A-130], [FIPS 140-3], [FIPS 186-4], [SP 800-162 ], [SP 800-178 ].
+<ins>References</ins>: [OMB A-130], [FIPS 140-3], [FIPS 186-4], [SP 800-162], [SP 800-178].
 

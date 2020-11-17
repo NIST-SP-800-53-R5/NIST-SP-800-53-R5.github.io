@@ -83,4 +83,4 @@ planning, investigation and response to suspicious activities, and Inspector Gen
 * (10) AUDIT RECORD REVIEW, ANALYSIS, AND REPORTING | AUDIT LEVEL ADJUSTMENT<br>
 [Withdrawn: Incorporated into AU-6.]
 
-<ins>References</ins>: [SP 800 -86], [SP 800 -101].
+<ins>References</ins>: [SP 800-86], [SP 800-101].

@@ -18,7 +18,7 @@ nav_order: 15120
 * (1) SESSION TERMINATION / USER-INITIATED LOGOUTS<br>
 **Provide a logout capability for user-initiated communications sessions whenever authentication is used to gain access to [ _Assignment: organization-defined information resources_ ].**
 
-    <ins>Discussion</ins>: nformation resources to which users gain access via authentication include local workstations, databases, and password-protected websites or web-based services.
+    <ins>Discussion</ins>: Information resources to which users gain access via authentication include local workstations, databases, and password-protected websites or web-based services.
 
     <ins>Related Controls</ins>: None.
 

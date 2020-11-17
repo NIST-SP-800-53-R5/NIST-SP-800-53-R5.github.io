@@ -21,7 +21,7 @@ nav_order: 3390
 * (1) PROTECTION OF AUDIT INFORMATION | HARDWARE WRITE-ONCE MEDIA<br>
 **Write audit trails to hardware-enforced, write-once media.**
 
-    <ins>Discussion</ins>: Writing audit trails to hardware-enforced, write-once media applies to the initial generation of audit trails (i.e., the collection of audit records that represents the information to be used for detection, analysis, and reporting purposes) and to the backup of those audit trails. Writing audit trails to hardware-enforced, write-once media does not apply to the initial generation of audit records prior to being written to an audit trail. Write-once, read- many (WORM) media includes Compact Disc-Recordable (CD-R), Blu-Ray Disc Recordable (BD-R), and Digital Versatile Disc-Recordable (DVD-R). In contrast, the use of switchable write-protection media, such as tape cartridges, Universal Serial Bus (USB) drives, Compact Disc Re-Writeable (CD-RW), and Digital Versatile Disc-Read Write (DVD-RW) results in write- protected but not write-once media.
+    <ins>Discussion</ins>: Writing audit trails to hardware-enforced, write-once media applies to the initial generation of audit trails (i.e., the collection of audit records that represents the information to be used for detection, analysis, and reporting purposes) and to the backup of those audit trails. Writing audit trails to hardware-enforced, write-once media does not apply to the initial generation of audit records prior to being written to an audit trail. Write-once, read-many (WORM) media includes Compact Disc-Recordable (CD-R), Blu-Ray Disc Recordable (BD-R), and Digital Versatile Disc-Recordable (DVD-R). In contrast, the use of switchable write-protection media, such as tape cartridges, Universal Serial Bus (USB) drives, Compact Disc Re-Writeable (CD-RW), and Digital Versatile Disc-Read Write (DVD-RW) results in write- protected but not write-once media.
 
     <ins>Related Controls</ins>: AU-4, AU-5.
 
@@ -35,9 +35,9 @@ nav_order: 3390
 * (3) PROTECTION OF AUDIT INFORMATION | CRYPTOGRAPHIC PROTECTION<br>
 **Implement cryptographic mechanisms to protect the integrity of audit information and audit tools.**
 
-<ins>Discussion</ins>: Cryptographic mechanisms used for protecting the integrity of audit information include signed hash functions using asymmetric cryptography. This enables the distribution of the public key to verify the hash information while maintaining the confidentiality of the secret key used to generate the hash.
+    <ins>Discussion</ins>: Cryptographic mechanisms used for protecting the integrity of audit information include signed hash functions using asymmetric cryptography. This enables the distribution of the public key to verify the hash information while maintaining the confidentiality of the secret key used to generate the hash.
 
-<ins>Related Controls</ins>: AU-10, SC-12, SC-13.
+    <ins>Related Controls</ins>: AU-10, SC-12, SC-13.
 
 * (4) PROTECTION OF AUDIT INFORMATION | ACCESS BY SUBSET OF PRIVILEGED USERS<br>
 **Authorize access to management of audit logging functionality to only [ _Assignment: organization-defined subset of privileged users or roles_ ].**
@@ -47,7 +47,7 @@ nav_order: 3390
     <ins>Related Controls</ins>: AC-5.
 
 * (5) PROTECTION OF AUDIT INFORMATION | DUAL AUTHORIZATION<br>
-Enforce dual authorization for [ _Selection (one or more): movement; deletion_ ] of [ _Assignment: organization-defined audit information_ ].
+**Enforce dual authorization for [ _Selection (one or more): movement; deletion_ ] of [ _Assignment: organization-defined audit information_ ].**
 
     <ins>Discussion</ins>: Organizations may choose different selection options for different types of audit information. Dual authorization mechanisms (also known as two-person control) require the approval of two authorized individuals to execute audit functions. To reduce the risk of collusion, organizations consider rotating dual authorization duties to other individuals. Organizations do not require dual authorization mechanisms when immediate responses are necessary to ensure public and environmental safety.
 

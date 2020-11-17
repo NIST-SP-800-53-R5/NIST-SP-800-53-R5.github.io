@@ -8,7 +8,7 @@ nav_order: 3230
 ## AT-3 ROLE-BASED TRAINING
 
 <ins>Control</ins>:
-* a. Provide role-based security and privacy training to personnel with the following roles and responsibilities: [ Assignment: organization-defined roles and responsibilities ]:
+* a. Provide role-based security and privacy training to personnel with the following roles and responsibilities: [ _Assignment: organization-defined roles and responsibilities_ ]:
     * 1 . Before authorizing access to the system, information, or performing assigned duties, and [ _Assignment: organization-defined frequency_ ] thereafter; and
     * 2 . When required by system changes;
 * b. Update role-based training content [ _Assignment: organization-defined frequency_ ] and following [ _Assignment: organization-defined events_ ]; and

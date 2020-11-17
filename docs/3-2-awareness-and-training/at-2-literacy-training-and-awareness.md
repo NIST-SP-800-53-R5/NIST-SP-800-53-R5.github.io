@@ -66,4 +66,4 @@ Awareness techniques include displaying posters, offering supplies inscribed wit
 
     <ins>Related Controls</ins>: RA-3.
 
-<ins>References</ins>: [OMB A-130], [SP 800-50], [SP 800-160-2], [ SP 800-181], [ODNI CTF].
+<ins>References</ins>: [OMB A-130], [SP 800-50], [SP 800-160-2], [SP 800-181], [ODNI CTF].
