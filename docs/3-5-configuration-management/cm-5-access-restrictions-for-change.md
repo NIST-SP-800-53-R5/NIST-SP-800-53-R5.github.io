@@ -19,7 +19,7 @@ nav_order: 3550
     * **(a) Enforce access restrictions using [ _Assignment: organization-defined automated mechanisms_ ]; and**
     * **(b) Automatically generate audit records of the enforcement actions.**
 
-    <ins>Discussion</ins>: Organizations log system accesses associated with applying configuration changes to ensure that configuration change control is implemented and to support after- the-fact actions should organizations discover any unauthorized changes.
+    <ins>Discussion</ins>: Organizations log system accesses associated with applying configuration changes to ensure that configuration change control is implemented and to support after-the-fact actions should organizations discover any unauthorized changes.
 
     <ins>Related Controls</ins>: AU-2, AU-6, AU-7, AU-12, CM-6, CM-11, SI-12.
 
@@ -54,4 +54,4 @@ nav_order: 3550
 * (7) ACCESS RESTRICTIONS FOR CHANGE / AUTOMATIC IMPLEMENTATION OF SECURITY SAFEGUARDS<br>
 [Withdrawn: Incorporated into SI-7.]
 
-<ins>References</ins>: [FIPS 140-3]; [FIPS 186- 4 ]
+<ins>References</ins>: [FIPS 140-3]; [FIPS 186-4]
