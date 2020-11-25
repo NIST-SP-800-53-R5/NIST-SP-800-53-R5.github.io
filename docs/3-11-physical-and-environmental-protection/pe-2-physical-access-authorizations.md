@@ -19,21 +19,21 @@ nav_order: 31120
 
 <ins>Control Enhancements</ins>:
 
-* (1) PHYSICAL ACCESS AUTHORIZATIONS | ACCESS BY POSITION OR ROLE<br>
+* (1) PHYSICAL ACCESS AUTHORIZATIONS / ACCESS BY POSITION OR ROLE<br>
 **Authorize physical access to the facility where the system resides based on position or role.**
 
     <ins>Discussion</ins>: Role-based facility access includes access by authorized permanent and regular/routine maintenance personnel, duty officers, and emergency medical staff.
 
     <ins>Related Controls</ins>: AC-2, AC-3, AC-6.
 
-* (2) PHYSICAL ACCESS AUTHORIZATIONS | TWO FORMS OF IDENTIFICATION<br>
+* (2) PHYSICAL ACCESS AUTHORIZATIONS / TWO FORMS OF IDENTIFICATION<br>
 **Require two forms of identification from the following forms of identification for visitor access to the facility where the system resides: [ _Assignment: organization-defined list of acceptable forms of identification_ ].**
 
     <ins>Discussion</ins>: Acceptable forms of identification include passports, REAL ID-compliant drivers’ licenses, and Personal Identity Verification (PIV) cards. For gaining access to facilities using automated mechanisms, organizations may use PIV cards, key cards, PINs, and biometrics.
 
     <ins>Related Controls</ins>: IA-2, IA -4, IA -5.
 
-* (3) PHYSICAL ACCESS AUTHORIZATIONS | RESTRICT UNESCORTED ACCESS<br>
+* (3) PHYSICAL ACCESS AUTHORIZATIONS / RESTRICT UNESCORTED ACCESS<br>
 **Restrict unescorted access to the facility where the system resides to personnel with [ _Selection (one or more): security clearances for all information contained within the system; formal access authorizations for all information contained within the system; need for access to all information contained within the system; [ Assignment: organization-defined physical access authorizations ]_].**
 
     <ins>Discussion</ins>: Individuals without required security clearances, access approvals, or need to know are escorted by individuals with appropriate physical access authorizations to ensure that information is not exposed or otherwise compromised.

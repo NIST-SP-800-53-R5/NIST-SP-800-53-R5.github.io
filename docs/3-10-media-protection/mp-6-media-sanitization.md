@@ -29,7 +29,7 @@ Organizations use discretion on the employment of approved sanitization techniqu
 * (2) MEDIA SANITIZATION / EQUIPMENT TESTING<br>
 **Test sanitization equipment and procedures [ _Assignment: organization-defined frequency_ ] to ensure that the intended sanitization is being achieved.**
 
-    <ins>Discussion</ins>: esting of sanitization equipment and procedures may be conducted by qualified and authorized external entities, including federal agencies or external service providers.
+    <ins>Discussion</ins>: Testing of sanitization equipment and procedures may be conducted by qualified and authorized external entities, including federal agencies or external service providers.
 
     <ins>Related Controls</ins>: None.
 

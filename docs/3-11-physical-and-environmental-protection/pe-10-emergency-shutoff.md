@@ -8,7 +8,7 @@ nav_order: 311100
 ## PE-10 EMERGENCY SHUTOFF
 
 <ins>Control</ins>:
-* a. Provide the capability of shutting off power to [ _Assignment: organization-defined system or individual system components_ ] in emergency situations;**
+* a. Provide the capability of shutting off power to [ _Assignment: organization-defined system or individual system components_ ] in emergency situations;
 * b. Place emergency shutoff switches or devices in [ _Assignment: organization-defined location by system or system component_ ] to facilitate access for authorized personnel; and
 * c. Protect emergency power shutoff capability from unauthorized activation.
 

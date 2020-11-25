@@ -19,28 +19,28 @@ nav_order: 31080
 
 <ins>Control Enhancements</ins>:
 
-* (1) MEDIA DOWNGRADING | DOCUMENTATION OF PROCESS<br>
+* (1) MEDIA DOWNGRADING / DOCUMENTATION OF PROCESS<br>
 **Document system media downgrading actions.**
 
     <ins>Discussion</ins>: Organizations can document the media downgrading process by providing information, such as the downgrading technique employed, the identification number of the downgraded media, and the identity of the individual that authorized and/or performed the downgrading action.
 
     <ins>Related Controls</ins>: None.
 
-* (2) MEDIA DOWNGRADING | EQUIPMENT TESTING<br>
+* (2) MEDIA DOWNGRADING / EQUIPMENT TESTING<br>
 **Test downgrading equipment and procedures [ _Assignment: organization-defined frequency_ ] to ensure that downgrading actions are being achieved.**
 
     <ins>Discussion</ins>: None.
 
     <ins>Related Controls</ins>: None.
 
-* (3) MEDIA DOWNGRADING | CONTROLLED UNCLASSIFIED INFORMATION<br>
+* (3) MEDIA DOWNGRADING / CONTROLLED UNCLASSIFIED INFORMATION<br>
 **Downgrade system media containing controlled unclassified information prior to public release.**
 
     <ins>Discussion</ins>: The downgrading of controlled unclassified information uses approved sanitization tools, techniques, and procedures.
 
     <ins>Related Controls</ins>: None.
 
-* (4) MEDIA DOWNGRADING | CLASSIFIED INFORMATION<br>
+* (4) MEDIA DOWNGRADING / CLASSIFIED INFORMATION<br>
 **Downgrade system media containing classified information prior to release to individuals without required access authorizations.**
 
     <ins>Discussion</ins>: Downgrading of classified information uses approved sanitization tools, techniques, and procedures to transfer information confirmed to be unclassified from classified systems to unclassified media.

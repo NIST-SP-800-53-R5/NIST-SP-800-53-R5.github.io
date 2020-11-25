@@ -24,4 +24,4 @@ nav_order: 31010
 
     <ins>Control Enhancements</ins>: None.
 
-<ins>References</ins>: [OMB A-130], [SP 800-12], [SP 800-30 ], [SP 800-39], [SP 800-100 ].
+<ins>References</ins>: [OMB A-130], [SP 800-12], [SP 800-30], [SP 800-39], [SP 800-100].
