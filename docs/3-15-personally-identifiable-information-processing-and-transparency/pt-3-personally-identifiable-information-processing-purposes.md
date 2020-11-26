@@ -8,7 +8,7 @@ nav_order: 31530
 ## PT-3 PERSONALLY IDENTIFIABLE INFORMATION PROCESSING PURPOSES
 
 <ins>Control</ins>:
-* a. Identify and document the [Assignment organization-defined purpose(s)] for processing personally identifiable information;
+* a. Identify and document the [ _Assignment organization-defined purpose(s)_ ] for processing personally identifiable information;
 * b. Describe the purpose(s) in the public privacy notices and policies of the organization;
 * c. Restrict the [ _Assignment: organization-defined processing_ ] of personally identifiable information to only that which is compatible with the identified purpose(s); and
 * d. Monitor changes in processing personally identifiable information and implement [ _Assignment: organization-defined mechanisms_ ] to ensure that any changes are made in accordance with [ _Assignment: organization-defined requirements_ ].

@@ -19,4 +19,4 @@ nav_order: 313310
 
 <ins>Related Controls</ins>: AC-2, AC-6, AC-17, AT-4, AU-6, AU-13, CA-2, CA-5, CA-6, CA-7, CM-3, CM-4, CM-6, CM-11, IA-5, IR-5, MA-2, MA-3, MA-4, PE-3, PE-6, PE-14, PE-16, PE-20, PL-2, PM-4, PM-6, PM-9, PM-10, PM-12, PM-14, PM-23, PM-28, PS-7, PT-7, RA-3, RA-5, RA-7, SA-9, SA-11, SC-5, SC- 7, SC-18, SC-38, SC-43, SI-3, SI-4, SI-12, SR-2, SR-4.
       
-<ins>References</ins>: [SP 800-37], [SP 800-39 ], [SP 800-137 ].
+<ins>References</ins>: [SP 800-37], [SP 800-39], [SP 800-137].

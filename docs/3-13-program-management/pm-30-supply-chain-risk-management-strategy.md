@@ -25,4 +25,4 @@ nav_order: 313300
 
     <ins>Related Controls</ins>: RA-3, SR-6.
 
-<ins>References</ins>: [PRIVACT], [FASC18], [41 CFR 201], [EO 13873], [OMB A-130], [OMB M-17- 06 ] [ISO 27036 ], [ISO 20243], [ SP 800-161], [ IR 8272].
+<ins>References</ins>: [PRIVACT], [FASC18], [41 CFR 201], [EO 13873], [OMB A-130], [OMB M-17-06] [ISO 27036], [ISO 20243], [SP 800-161], [IR 8272].

@@ -23,4 +23,4 @@ To conduct the privacy impact assessment, organizations can use security and pri
 
 <ins>Control Enhancements</ins>: None.
 
-<ins>References</ins>: [EGOV], [OMB A-130, Appendix II], [ OMB M-03-22 ].
+<ins>References</ins>: [EGOV], [OMB A-130, Appendix II], [OMB M-03-22].
