@@ -63,7 +63,7 @@ nav_order: 319190
 * (7) DE-IDENTIFICATION / VALIDATED ALGORITHMS AND SOFTWARE<br>
 **Perform de-identification using validated algorithms and software that is validated to implement the algorithms.**
 
-    <ins>Discussion</ins>: Algorithms that appear to remove personally identifiable information from a dataset may in fact leave information that is personally identifiable or data that is re- identifiable. Software that is claimed to implement a validated algorithm may contain bugs or implement a different algorithm. Software may de-identify one type of data, such as integers, but not de-identify another type of data, such as floating point numbers. For these reasons, de-identification is performed using algorithms and software that are validated.
+    <ins>Discussion</ins>: Algorithms that appear to remove personally identifiable information from a dataset may in fact leave information that is personally identifiable or data that is re-identifiable. Software that is claimed to implement a validated algorithm may contain bugs or implement a different algorithm. Software may de-identify one type of data, such as integers, but not de-identify another type of data, such as floating point numbers. For these reasons, de-identification is performed using algorithms and software that are validated.
 
     <ins>Related Controls</ins>: None.
    

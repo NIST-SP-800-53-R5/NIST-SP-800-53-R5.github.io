@@ -12,7 +12,7 @@ nav_order: 31930
 * b. Automatically update malicious code protection mechanisms as new releases are available in accordance with organizational configuration management policy and procedures;
 * c. Configure malicious code protection mechanisms to:
     * 1 . Perform periodic scans of the system [ _Assignment: organization-defined frequency_ ] and real-time scans of files from external sources at [ _Selection (one or more); endpoint; network entry and exit points_ ] as the files are downloaded, opened, or executed in accordance with organizational policy; and
-    * 2 . [ _Selection (one or more): block malicious code; quarantine malicious code; take [ Assignment: organization-defined action ]_ ]; and send alert to [ _Assignment: organization- defined personnel or roles_] in response to malicious code detection; and
+    * 2 . [ _Selection (one or more): block malicious code; quarantine malicious code; take [ Assignment: organization-defined action ]_ ]; and send alert to [ _Assignment: organization-defined personnel or roles_] in response to malicious code detection; and
 * d. Address the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the system.
 
 <ins>Discussion</ins>: System entry and exit points include firewalls, remote access servers, workstations, electronic mail servers, web servers, proxy servers, notebook computers, and mobile devices. Malicious code includes viruses, worms, Trojan horses, and spyware. Malicious code can also be encoded in various formats contained within compressed or hidden files or hidden in files using techniques such as steganography. Malicious code can be inserted into systems in a variety of ways, including by electronic mail, the world-wide web, and portable storage devices. Malicious code insertions occur through the exploitation of system vulnerabilities. A variety of technologies and methods exist to limit or eliminate the effects of malicious code.
@@ -37,7 +37,7 @@ In situations where malicious code cannot be detected by detection methods or te
 * (4) MALICIOUS CODE PROTECTION / UPDATES ONLY BY PRIVILEGED USERS<br>
 **Update malicious code protection mechanisms only when directed by a privileged user.**
 
-    <ins>Discussion</ins>: Protection mechanisms for malicious code are typically categorized as security- related software and, as such, are only updated by organizational personnel with appropriate access privileges.
+    <ins>Discussion</ins>: Protection mechanisms for malicious code are typically categorized as security-related software and, as such, are only updated by organizational personnel with appropriate access privileges.
 
     <ins>Related Controls</ins>: CM-5.
    
@@ -70,7 +70,7 @@ In situations where malicious code cannot be detected by detection methods or te
     * **(a) Employ the following tools and techniques to analyze the characteristics and behavior of malicious code: [ _Assignment: organization-defined tools and techniques_ ]; and**
     * **(b) Incorporate the results from malicious code analysis into organizational incident response and flaw remediation processes.**
 
-    <ins>Discussion</ins>: The use of malicious code analysis tools provides organizations with a more in- depth understanding of adversary tradecraft (i.e., tactics, techniques, and procedures) and the functionality and purpose of specific instances of malicious code. Understanding the characteristics of malicious code facilitates effective organizational responses to current and future threats. Organizations can conduct malicious code analyses by employing reverse engineering techniques or by monitoring the behavior of executing code.
+    <ins>Discussion</ins>: The use of malicious code analysis tools provides organizations with a more in-depth understanding of adversary tradecraft (i.e., tactics, techniques, and procedures) and the functionality and purpose of specific instances of malicious code. Understanding the characteristics of malicious code facilitates effective organizational responses to current and future threats. Organizations can conduct malicious code analyses by employing reverse engineering techniques or by monitoring the behavior of executing code.
 
     <ins>Related Controls</ins>: None.
 

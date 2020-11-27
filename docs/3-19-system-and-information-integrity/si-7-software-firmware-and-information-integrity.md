@@ -19,7 +19,7 @@ nav_order: 31970
 <ins>Control Enhancements</ins>:
    
 * (1) SOFTWARE, FIRMWARE, AND INFORMATION INTEGRITY / INTEGRITY CHECKS<br>
-**Perform an integrity check of [ _Assignment: organization-defined software, firmware, and information_ ] [ _Selection (one or more): at startup; at [ Assignment: organization-defined transiti**onal states or security-relevant events ]; [ Assignment: organization-defined frequency ]_].**
+**Perform an integrity check of [ _Assignment: organization-defined software, firmware, and information_ ] [ _Selection (one or more): at startup; at [ Assignment: organization-defined transitional states or security-relevant events ]; [ Assignment: organization-defined frequency ]_].**
 
     <ins>Discussion</ins>: Security-relevant events include the identification of new threats to which organizational systems are susceptible and the installation of new hardware, software, or firmware. Transitional states include system startup, restart, shutdown, and abort.
 
